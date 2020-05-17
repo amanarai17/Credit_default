@@ -27,6 +27,5 @@ An app like this would be useful for financial and lending institutions to under
 <ul> 
 	<li> Logistic Regression </li>
 	<li> Random Forest Model </li>
-	<li> Deep Neural Network </li>
 </ul>
 
