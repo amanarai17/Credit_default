@@ -18,7 +18,7 @@ An app like this would be useful for financial and lending institutions to under
 <ul> 
   <li> Determining probability of user liability </li>
   <li> Creating an interactive UI that will take users input and return an output </li>
-  <li> To determine if a neural network vs logistic regression is the better model for classification </li>
+  <li> To determine if a random forest vs logistic regression is the better model for classification </li>
 </ul>
 
 <br>
